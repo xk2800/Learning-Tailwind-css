@@ -6,3 +6,13 @@
 @tailwind components;
 @tailwind utilities;
 
+5. CHANGE: scripts in package.json
+6. RUN: npm run scriptname
+7. create html
+
+--tailwind config file
+8. CMD: npx tailwindcss init --full
+9. tailwind config file allow custom classes & classes
+9. rename config file to tailwind-default.config.js
+10. run blank config file, CMD: npx tailwindcss init
+11. set custom configs, then CMD: npm run scriptname
