@@ -1,7 +1,7 @@
 1. CMD: npm init -y
 2. CMD: npm install -D tailwindcss@latest postcss@latest autoprefixer@latest
 3. create SRC(source file)->style.css file & public folder(final output file)
-4. In styles.css, paste
+4. In styles.css of SRC, paste
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
